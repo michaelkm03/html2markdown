@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ac:confluence SYSTEM "../confluence-to-markdown-converter/dtd/confluence-all.dtd" [<!ENTITY clubs    "&#9827;"><!ENTITY nbsp   "&#160;"><!ENTITY ndash   "&#8211;"><!ENTITY mdash   "&#8212;">]><ac:confluence xmlns:ac="http://www.atlassian.com/schema/confluence/4/ac/" xmlns:ri="http://www.atlassian.com/schema/confluence/4/ri/" xmlns="http://www.atlassian.com/schema/confluence/4/"><p /><ac:macro ac:name="attachments"><ac:parameter ac:name="upload">true</ac:parameter></ac:macro></ac:confluence>
