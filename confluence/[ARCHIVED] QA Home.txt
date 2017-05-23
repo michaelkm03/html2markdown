@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ac:confluence SYSTEM "../confluence-to-markdown-converter/dtd/confluence-all.dtd" [<!ENTITY clubs    "&#9827;"><!ENTITY nbsp   "&#160;"><!ENTITY ndash   "&#8211;"><!ENTITY mdash   "&#8212;">]><ac:confluence xmlns:ac="http://www.atlassian.com/schema/confluence/4/ac/" xmlns:ri="http://www.atlassian.com/schema/confluence/4/ri/" xmlns="http://www.atlassian.com/schema/confluence/4/">
+<ac:layout><ac:layout-section ac:type="single"><ac:layout-cell>
+<ac:structured-macro ac:name="tip"><ac:parameter ac:name="title">Welcome to your new space!</ac:parameter><ac:rich-text-body>
+                    <p>Confluence spaces are great for sharing content and news with your team. This is your home page. Right now it shows recent space activity, but you can customize this page in anyway you like.</p>
+                </ac:rich-text-body></ac:structured-macro><h2>Complete these tasks to get started</h2><ac:task-list>
+<ac:task>
+<ac:task-id>43</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+                        <strong>Edit this home page</strong> - Click <em>Edit</em> in the top right of this screen to customize your Space home page
+                    </ac:task-body>
+</ac:task>
+<ac:task>
+<ac:task-id>44</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+                        <strong>Create your first page</strong> - Click the <em>Create</em> button in the header to get started
+                    </ac:task-body>
+</ac:task>
+<ac:task>
+<ac:task-id>45</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+                        <strong>Brand your Space</strong> - Click <em>Configure Sidebar</em> in the left panel to update space details and logo
+                    </ac:task-body>
+</ac:task>
+<ac:task>
+<ac:task-id>46</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+                        <strong>Set permissions</strong> - Click <em>Space Tools</em> in the left sidebar to update permissions and give others access
+                    </ac:task-body>
+</ac:task>
+</ac:task-list>
+
+<p>&nbsp;</p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type="two_equal"><ac:layout-cell>
+<h2>Recent space activity</h2><p>
+                    <ac:structured-macro ac:name="recently-updated"><ac:parameter ac:name="max">5</ac:parameter><ac:parameter ac:name="hideHeading">true</ac:parameter><ac:parameter ac:name="theme">social</ac:parameter><ac:parameter ac:name="types">page, comment, blogpost</ac:parameter></ac:structured-macro>
+                </p></ac:layout-cell><ac:layout-cell>
+<h2>Space contributors</h2><p>
+                    <ac:structured-macro ac:name="contributors"><ac:parameter ac:name="limit">5</ac:parameter><ac:parameter ac:name="scope">descendants</ac:parameter><ac:parameter ac:name="order">update</ac:parameter><ac:parameter ac:name="showLastTime">true</ac:parameter><ac:parameter ac:name="mode">list</ac:parameter></ac:structured-macro>
+                </p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type="single"><ac:layout-cell>
+<p>&nbsp;</p></ac:layout-cell></ac:layout-section></ac:layout></ac:confluence>

@@ -1,0 +1,16 @@
+# Imported pages
+
+* [History of Regression Test](wiki-page:History of Regression Test)
+* [JIRA QA Story Point Guide](wiki-page:JIRA QA Story Point Guide)
+* [Backend Test Passes](wiki-page:Backend Test Passes)
+* [1.4 Test Passes](wiki-page:1.4 Test Passes)
+* [1.3 Test Passes](wiki-page:1.3 Test Passes)
+* [1.5 Test Passes](wiki-page:1.5 Test Passes)
+* [1.6 Test Passes](wiki-page:1.6 Test Passes)
+* [Tester's Guide to In-App Purchasing](wiki-page:Tester's Guide to In-App Purchasing)
+* [Tester's Guide to Building qa and staging Apps for iOS](wiki-page:Tester's Guide to Building qa and staging Apps for iOS)
+* [Twitter and Facebook Behavior Outline](wiki-page:Twitter and Facebook Behavior Outline)
+* [QA Ladder](wiki-page:QA Ladder)
+* [Tester's Guide to Test Push Notifications Between Two Devices](wiki-page:Tester's Guide to Test Push Notifications Between Two Devices)
+* [[ARCHIVED] QA Home](wiki-page:[ARCHIVED] QA Home)
+* [[ARCHIVE] Victorious Quality Assurance](wiki-page:[ARCHIVE] Victorious Quality Assurance)
