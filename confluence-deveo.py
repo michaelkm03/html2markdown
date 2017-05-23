@@ -48,7 +48,7 @@ def write_file(file_name, result):
         f.write('<ac:confluence xmlns:ac="http://www.atlassian.com/schema/confluence/4/ac/" xmlns:ri="http://www.atlassian.com/schema/confluence/4/ri/" xmlns="http://www.atlassian.com/schema/confluence/4/">')
         f.write(result["body"]["storage"]["value"])
         f.write("</ac:confluence>")
-    os.system("java -jar confluence-to-markdown-converter/lib/saxon9he.jar -s:./confluence/" + file_name.replace(" ", r"\ ") + ".txt -xsl:confluence-to-markdown-converter/xslt/c2deveo.xsl -o:./markdown/pages/" + file_name.replace(" ", r"\ ") + ".md")
+    os.system("java -jar confluence-to-markdown-converter/lib/saxon9he.jar -s:./confluence/" + file_name.replace(" ", r"\ ") + ".txt -xsl:confluence-to-markdown-converter/xslt/c2deveo.xsl -o:./markdown/" + CONFLUENCE_SPACE + "/pages/" + file_name.replace(" ", r"\ ") + ".md")
 
 def create_directories():
     os.system("mkdir -p ./confluence")
