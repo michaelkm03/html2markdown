@@ -8,7 +8,7 @@ As the three vic tables are populated with the data provided by the new analytic
 
 The table below shows the metrics comparisons using the two services, using the Data Cortex numbers as the baseline. There is a significantly higher number of installs and DAU when calculating off the data from the new microservice than from the data from the existing Data Cortex service. The preceding 4 days (4/22 to 4/25) we see lower installs, session, and time in app numbers, with the latter two normalizing to the Data Cortex numbers after the 4 day period. Retention is also impacted, calculated as a measure of installs and dau. All other metrics have parity with Data Cortex.
 
-![](wiki-attachment:image2016-4-27 17:46:59.png)
+![](attachments/testimage.png)
 
 ### Installs Variance: 
 
